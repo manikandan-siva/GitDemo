@@ -14,7 +14,8 @@ public class AppiumAddTest {
 	{
 		
 
-		System.out.println("Tested with appium additional features");
+		System.out.println("Tested with appium additional features."
+				+ "Bye");
 
 	}
 }
