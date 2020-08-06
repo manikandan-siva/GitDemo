@@ -4,7 +4,7 @@ package WebPageTesting;
 import org.testng.annotations.Test;
 
 
-public class Appium {
+public class AppiumTest {
 
 	@Test
 	public void Apptest()
